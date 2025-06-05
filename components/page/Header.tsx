@@ -32,7 +32,7 @@ export default function Header() {
         >
           <Button
             className="flex items-center gap-2 px-7 py-3 rounded-full font-bold text-lg bg-cyan-500/80 hover:bg-cyan-400 shadow-[0_0_18px_2px_rgba(34,211,238,0.25)] transition-all duration-200 border-b-4 border-cyan-400/70 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-cyan-400"
-            onClick={() => (window.location.href = "mailto:mail@dan.de")}
+            onClick={() => (window.location.href = "mailto:dan@pushfwd.de")}
           >
             <Mail width={22} height={22} className="mr-1" /> Contact me
           </Button>
