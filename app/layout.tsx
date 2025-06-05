@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dan Deutschmann",
+  title: "Dan J. Deutschmann",
   description: "Cutter and Video Editor",
 };
 
@@ -35,7 +35,7 @@ export default function RootLayout({
         <div />
         {children}
         <footer className="text-center py-10 text-gray-500 text-sm font-sans">
-          © {new Date().getFullYear()} Dan Deutschmann — All rights reserved.
+          © {new Date().getFullYear()} Dan J. Deutschmann — All rights reserved.
           <br />
           Made by <Link href="https://xyzjesper.dev">xyzjesper.dev</Link>
         </footer>
