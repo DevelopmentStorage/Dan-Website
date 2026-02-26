@@ -2,25 +2,21 @@
   {
     "id": "UCIMx_t98uFwZq1jyBf1qd9w",
     "videoCount": 5,
-    "all": false,
     "cutBy": null
   },
   {
     "id": "UCsxZ1U8RqZiQKhmGfRzpSJw",
     "videoCount": 5,
-    "all": false,
     "cutBy": null
   },
   {
     "id": "UCVZmhmDtF8wCHNqpviNsAlw",
     "videoCount": 2,
-    "all": false,
     "cutBy": null
   },
   {
     "id": "UCsf35WJxfZ2Uh0TPLJN1Sqw",
-    "videoCount": null,
-    "all": true,
+    "videoCount": 2,
     "cutBy": null
   }
 ]
